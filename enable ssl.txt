@@ -1,0 +1,1 @@
+.acme.sh/acme.sh --issue -d example.com -w /home/wwwroot/websitefolder *For generating SSL certificate*
